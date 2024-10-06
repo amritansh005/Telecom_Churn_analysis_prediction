@@ -34,29 +34,3 @@ The following preprocessing steps were performed:
 * The model is well-regularized and does not overfit.
 * There is room to improve precision and balance the trade-off between false positives and true positives.
 
-## Future Work
-
-* Explore other models like Random Forest, SVM, or XGBoost.
-* Experiment with different hyperparameter ranges and the `class_weight` parameter.
-* Consider using SMOTE or other techniques to address class imbalance.
-* Perform more in-depth feature engineering.
-
-## Usage
-
-1. Clone the repository.
-2. Install the required libraries (`pandas`, `scikit-learn`, etc.).
-3. Load the dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`).
-4. Run the Jupyter notebook (`Telecom_churn_analysis.ipynb`).
-
-## Contributing
-
-Feel free to contribute to this project by:
-
-* Improving the data preprocessing or feature engineering steps.
-* Trying different models or hyperparameter tuning techniques.
-* Adding more visualizations or analysis.
-* Suggesting other improvements or enhancements.
-
-## License
-
-This project is licensed under the MIT License.
