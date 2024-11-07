@@ -1,4 +1,4 @@
-# Telecom Churn Prediction
+# Telecom Churn Prediction (Work in progress)
 
 This project aims to predict customer churn in a telecom company using machine learning.
 
